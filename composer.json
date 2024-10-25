@@ -8,6 +8,13 @@
             "Nishima\\Hellouser\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nishima\\Hellouser\\HellouserServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "nishima",
